@@ -1,5 +1,5 @@
 { 
     "products":
-        {"product_image": "img.png", "product_title": "Helmelk", "product_price": "22,90 kr", "unit_price": "22,90 kr pr/l", "vendor": "Tine Laktosefri 1l"}    
+        {"product_image": "https://bilder.ngdata.no/7038010002748/meny/medium.jpg", "product_title": "Helmelk", "product_price": "22,90 kr", "unit_price": "22,90 kr pr/l", "vendor": "Tine Laktosefri 1l"}    
 
 }
